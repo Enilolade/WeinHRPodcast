@@ -49,7 +49,7 @@ textarea {
         width: 60%;
     }
     form {
-        width: 50%;
+        width: 70%;
         margin: auto;
         text-align: left;
     }
@@ -58,5 +58,10 @@ textarea {
     }
     textarea {
         height: 100px;
+    }
+}
+@media (min-width: 1300px){
+    form {
+        width: 50%;
     }
 }
